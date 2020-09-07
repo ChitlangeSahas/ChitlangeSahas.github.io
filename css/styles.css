@@ -9,6 +9,7 @@
 
 body {
     font-family: 'JetBrainsMono', sans-serif;
+    font-weight: 100 !important;
     color: #414042 !important;
 }
 
@@ -106,15 +107,27 @@ accent{
     }
 }
 
+@media (min-width: 360px) {
+
+    .navbar-brand{
+        margin: 0;
+        font-size: 1.50rem;
+    }
+}
+
 @media (max-width: 450px) {
 
     .navbar-brand{
-        /*margin: 0;*/
         font-size: 1.5rem;
     }
 }
 
-@media (min-width: 768px) {  }
+@media (min-width: 620px) {
+    .navbar-brand{
+        margin: 0;
+        font-size: 2.60rem;
+    }
+}
 
 @media (max-width: 992px) {
     #background_container{

@@ -1,0 +1,218 @@
+.show_on_hover {
+    width: 85%;
+    height: 85%;
+    background-color: white;
+    border-style: solid;
+    border-color: #414042;
+
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.bottom_right {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: #414042;
+}
+
+.bottom_left {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 10px 15px;
+}
+
+.gallery {
+    position: relative;
+    width: 100%;
+    max-width: 1100px;
+}
+
+.gallery h1 {
+    display: inline-block;
+    font-size: 2.2em;
+    padding: 10px;
+    color: #414042;
+}
+
+.gallery ol {
+    list-style: none;
+    width: inherit;
+    padding: 0px;
+}
+
+.gallery li {
+    position: relative;
+    width: inherit;
+    height: 300px;
+}
+
+.gallery li a {
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.gallery li .uniwheel_background {
+    background-image: url(https://rawcdn.githack.com/ChitlangeSahas/ChitlangeSahas.github.io/df59a395422995dfca181a41e8d41b1f6d20b990/img/uniwheel.png);
+    background-size: 75%;
+}
+
+.gallery li .uniwheel_app_background {
+    background-image: url(https://rawcdn.githack.com/ChitlangeSahas/ChitlangeSahas.github.io/df59a395422995dfca181a41e8d41b1f6d20b990/img/unicycle_app.png);
+    background-size: 90%;
+}
+
+.gallery li .cellular_automaton_background {
+    background-image: url(https://raw.githubusercontent.com/ChitlangeSahas/ChitlangeSahas.github.io/master/img/cellular_automaton.jpg);
+    background-position: 0px;
+}
+
+.gallery li .torque_background {
+    background-image: url(https://cdn.instructables.com/FAD/IY6Y/JIOUEE5Y/FADIY6YJIOUEE5Y.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds);
+}
+
+.gallery li .with_u_background {
+    background-image: url(https://cdn.instructables.com/FBS/E9JH/IVO3IEIL/FBSE9JHIVO3IEIL.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds);
+    background-position: 0px;
+}
+
+.gallery li .pi_berry_background {
+    background-image: url(https://cdn.instructables.com/FKR/WDS9/IEKJ6FY2/FKRWDS9IEKJ6FY2.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds);
+}
+
+.gallery li .coco_mic_background {
+    background-image: url(https://cdn.instructables.com/FKJ/2FGA/I78VRH2R/FKJ2FGAI78VRH2R.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds);
+    background-position: 0px;
+}
+
+.gallery li .mr_engraver_background {
+    background-image: url(https://cdn.instructables.com/FVY/TO7U/IHZ4SHA9/FVYTO7UIHZ4SHA9.LARGE.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds);
+    background-position: 0px;
+}
+
+.gallery a {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.info {
+    position: absolute;
+    top: 0;
+    padding: 15px;
+    color: #414042;
+}
+
+.info h3 {
+    font-size: 1.5em;
+}
+
+.info p {
+    font-size: 0.9em;
+}
+
+.logo_image {
+    display: inline;
+}
+
+.project_title {
+    margin-top: 30px;
+}
+
+.gallery .info-card {
+    position: relative;
+    display: block;
+    padding: 0;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.gallery .info-card h3 {
+    font-size: 1rem;
+}
+
+.gallery .info-card p {
+    font-size: 0.8rem;
+}
+
+.hide_except_mobile {
+    display: block;
+}
+
+#page_heading_mobile{
+    font-size: 2.0rem;
+    display: none;
+}
+
+@media screen and (max-width: 621px) {
+    #page_heading{
+        display: none;
+    }
+    #page_heading_mobile{
+        display: block;
+    }
+}
+
+@media screen and (min-width: 620px) {
+    .gallery li {
+        float: left;
+        height: 400px;
+        width: 50%;
+    }
+
+    .pdf_resume {
+        height: 1200px;
+    }
+
+    .gallery li .uniwheel_app_background {
+        background-image: url(https://rawcdn.githack.com/ChitlangeSahas/ChitlangeSahas.github.io/df59a395422995dfca181a41e8d41b1f6d20b990/img/unicycle_app.png);
+        background-size: 80%;
+    }
+
+    .gallery li .uniwheel_background {
+        background-image: url(https://rawcdn.githack.com/ChitlangeSahas/ChitlangeSahas.github.io/df59a395422995dfca181a41e8d41b1f6d20b990/img/uniwheel.png);
+        background-size: 85%;
+    }
+
+    .hide_except_mobile {
+        display: none;
+    }
+
+    .gallery .info-card {
+        display: none;
+    }
+
+}
+
+@media screen and (min-width: 767px) {
+
+    .gallery li:hover .show_on_hover {
+        display: block;
+    }
+
+    .info h3 {
+        font-size: 1.8em;
+    }
+
+    .gallery li {
+        border-right: 5px solid #ffffff;
+        border-left: 5px solid #ffffff;
+        border-bottom: 10px solid #ffffff;
+    }
+
+    .project_title {
+        margin-top: 0px;
+    }
+
+}
+
+.info h4 {
+    color: #0671A1;
+}
