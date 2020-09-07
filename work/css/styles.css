@@ -112,10 +112,20 @@
     font-size: 1.5em;
 }
 
-.info p {
-    font-size: 0.9em;
+.info h4 {
+    margin-top: 20px;
 }
 
+.info p {
+    font-size: 1em;
+    margin-top: 30px;
+}
+
+.info hr {
+    margin-left: -15px;
+    margin-right: -15px;
+    background-color: #414042;
+}
 .logo_image {
     display: inline;
 }
@@ -136,6 +146,7 @@
 
 .gallery .info-card h3 {
     font-size: 1rem;
+    font-weight: bold;
 }
 
 .gallery .info-card p {
