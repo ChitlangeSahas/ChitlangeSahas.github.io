@@ -1,14 +1,29 @@
 @font-face{
-    font-family: 'JetBrainsMono';
-    src: url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2') format('woff2'),
-    url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/web/woff/JetBrainsMono-Regular.woff') format('woff'),
-    url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf') format('truetype');
-    font-weight: 300;
+    font-family: 'JetBrainsMono_Regular';
+    src: url('../fonts/JetBrainsMono/web/woff2/JetBrainsMono-Regular.woff2') format('woff2'),
+    url('../fonts/JetBrainsMono/web/woff/JetBrainsMono-Regular.woff') format('woff'),
+    url('../fonts/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'JetBrainsMono_Light';
+    src: url('../fonts/JetBrainsMono/web/woff2/JetBrainsMono-Light.woff2') format('woff2'),
+    url('../fonts/JetBrainsMono/web/woff/JetBrainsMono-Light.woff') format('woff'),
+    url('../fonts/JetBrainsMono/ttf/JetBrainsMono-Light.ttf') format('truetype');
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'JetBrainsMono_Bold';
+    src: url('../fonts/JetBrainsMono/web/woff2/JetBrainsMono-Bold.woff2') format('woff2'),
+    url('../fonts/JetBrainsMono/web/woff/JetBrainsMono-Bold.woff') format('woff'),
+    url('../fonts/JetBrainsMono/ttf/JetBrainsMono-Bold.ttf') format('truetype');
     font-style: normal;
 }
 
 body {
-    font-family: 'JetBrainsMono', sans-serif;
+    font-family: 'JetBrainsMono_Regular', sans-serif;
     font-weight: 100 !important;
     color: #414042 !important;
 }
