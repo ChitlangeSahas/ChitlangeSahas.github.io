@@ -1,0 +1,126 @@
+.row h1 {
+    text-transform: uppercase;
+    font-size: 2.6rem;
+}
+
+.row h5 {
+    margin-top: 3rem;
+    line-height: 1.7rem;
+    font-family: JetBrainsMono_Light;
+}
+
+.btn-primary {
+    background-color: #0671A1;
+    font-family: JetBrainsMono_Light;
+    border: 0;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    min-width: 8rem;
+    min-height: 3rem;
+    /*padding: 1rem;*/
+
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+button:hover{
+    background: #414042 !important;
+}
+
+hr {
+    /*margin-left: -15rem !important;*/
+    /*margin-right: -15rem !important;*/
+    width: 100vw;
+    max-width: 100vw;
+    margin-left: calc(50% - 50vw);
+    background-color: #C8C8C8;
+    margin-top: 5rem !important;
+    margin-bottom: 5rem !important;
+}
+
+.top_project_name {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    font-family: JetBrainsMono_Light;
+    width: 100vw;
+    max-width: 100vw;
+    margin-left: calc(50% - 50vw);
+    border-bottom: 1px solid #414042;
+    box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+    background: white;
+    padding: 1rem;
+}
+
+.top_project_name h1 {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.d-lg-none h5 {
+    line-height: 1.7rem;
+    font-family: JetBrainsMono_Light;
+    margin-top: 1rem;
+}
+
+.d-lg-none .btn-primary {
+    background-color: #0671A1;
+    font-family: JetBrainsMono_Light;
+    border: 0;
+    border-radius: 50px;
+    font-size: 0.9rem;
+    min-width: 6rem;
+    min-height: 2rem;
+    /*padding: 1rem;*/
+
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.d-lg-none hr {
+    width: 100vw;
+    max-width: 100vw;
+    margin-left: calc(50% - 50vw);
+    background-color: #C8C8C8;
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+
+#simply_put h1 {
+    font-size: 1.5rem;
+    font-family: JetBrainsMono_Light;
+}
+
+@media (min-width: 620px) {
+    .top_project_name h1{
+        font-size: 2.60rem;
+    }
+
+    .d-lg-none .btn-primary {
+        background-color: #0671A1;
+        font-family: JetBrainsMono_Light;
+        border: 0;
+        border-radius: 50px;
+        font-size: 1.1rem;
+        min-width: 8rem;
+        min-height: 3rem;
+        /*padding: 1rem;*/
+
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    hr {
+        /*margin-left: -15rem !important;*/
+        /*margin-right: -15rem !important;*/
+        width: 100vw;
+        max-width: 100vw;
+        margin-left: calc(50% - 50vw);
+        background-color: #C8C8C8;
+        margin-top: 2rem !important;
+        margin-bottom: 2rem !important;
+    }
+
+    #simply_put h1 {
+        font-size: 2.6rem;
+        font-family: JetBrainsMono_Light;
+    }
+}
