@@ -84,7 +84,7 @@ hr {
     font-family: JetBrainsMono_Light;
 }
 
-#nav_buttons {
+.nav_buttons {
     width: 100vw;
     max-width: 100vw;
     margin-left: calc(50% - 50vw);
@@ -94,7 +94,7 @@ hr {
     justify-content: space-between;
 }
 
-#nav_buttons .btn-primary {
+.nav_buttons .btn-primary {
     min-width: 1rem;
     background-color: #414042;
 }
