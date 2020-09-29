@@ -98,6 +98,11 @@ hr {
     justify-content: space-between;
 }
 
+.nav_buttons a:active, .nav_buttons a:hover {
+    background-color: #0671A1 !important;
+    transform: scale(1.3,1.3);
+}
+
 .nav_buttons .btn-primary {
     min-width: 1rem;
     background-color: #414042;
