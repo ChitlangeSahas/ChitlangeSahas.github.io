@@ -1,0 +1,30 @@
+.hide_except_mobile {
+    display: block;
+}
+
+#page_heading_mobile{
+    font-size: 2.0rem;
+    display: none;
+}
+
+@media screen and (max-width: 621px) {
+    #page_heading{
+        display: none;
+    }
+    #page_heading_mobile{
+        display: block;
+    }
+}
+
+@media screen and (min-width: 620px) {
+
+    .hide_except_mobile {
+        display: none;
+    }
+
+}
+
+@media screen and (min-width: 767px) {
+
+
+}
