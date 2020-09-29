@@ -163,17 +163,19 @@
 .gallery .info-card .project_status {
     font-size: 0.9rem;
     font-family: 'JetBrainsMono_Light';
+    font-weight: 200;
 }
 
 .gallery .info-card p {
-    font-family: 'JetBrainsMono_Light';
+    font-family: 'Apercu Pro';
     font-size: 0.9rem;
     margin-bottom: 0;
 }
 
 .gallery .info-card project_name {
     /*color: #0671A1;*/
-    font-family: 'JetBrainsMono_Bold';
+    /*font-family: 'Apercu Pro';*/
+    font-weight: 800;
     font-size: 0.9rem;
 }
 
