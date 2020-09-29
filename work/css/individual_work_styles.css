@@ -5,7 +5,7 @@
 
 .row h5 {
     margin-top: 3rem;
-    /*line-height: 1.8rem;*/
+    line-height: 1.8rem;
     font-family: "Apercu Pro";
     font-weight: 400;
 }
@@ -132,7 +132,7 @@ hr {
 
     .d-lg-none h5 {
         font-size: 1.5rem;
-        line-height: 3rem;
+        line-height: 1.5rem;
         margin-top: 2rem;
     }
 }
