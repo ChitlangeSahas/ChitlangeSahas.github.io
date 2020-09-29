@@ -26,6 +26,10 @@ button:hover, button:active, button:focus{
     background: #414042 !important;
 }
 
+.btn.btn-primary:disabled{
+    background-color: #414042;
+}
+
 hr {
     /*margin-left: -15rem !important;*/
     /*margin-right: -15rem !important;*/
