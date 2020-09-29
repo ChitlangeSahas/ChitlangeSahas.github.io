@@ -5,8 +5,9 @@
 
 .row h5 {
     margin-top: 3rem;
-    line-height: 1.7rem;
-    font-family: JetBrainsMono_Light;
+    line-height: 2rem;
+    font-family: "Apercu Pro";
+    font-weight: 100;
 }
 
 .btn-primary {
@@ -63,7 +64,7 @@ hr {
 .d-lg-none h5 {
     font-size: 1rem;
     /*line-height: 1rem;*/
-    font-family: JetBrainsMono_Light;
+    font-family: "Apercu Pro";
     margin-top: 2rem;
 }
 
@@ -132,7 +133,6 @@ hr {
     .d-lg-none h5 {
         font-size: 1.5rem;
         line-height: 3rem;
-        font-family: JetBrainsMono_Light;
         margin-top: 2rem;
     }
 }

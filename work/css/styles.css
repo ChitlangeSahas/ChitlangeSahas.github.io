@@ -113,16 +113,19 @@
 
 .info h3 {
     font-size: 1.5em;
+    font-family: "JetBrainsMono_Regular";
 }
 
 .info h4 {
     margin-top: 20px;
+    font-family: 'Apercu Pro';
 }
 
 .info p {
     font-size: 1em;
     margin-top: 30px;
-    font-family: 'JetBrainsMono_Light';
+    font-family: 'Apercu Pro';
+    font-weight: 100;
 }
 
 .info hr {
