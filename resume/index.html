@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.0/animate.min.css"/>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="/fonts/ApercuPro/apercu_pro.css">
     <link rel="stylesheet" href="../css/styles.css">
     <link rel="stylesheet" href="css/styles.css">
     <script src="../js/background.js"></script>
@@ -27,9 +29,33 @@
     <h2  class="animate__animated animate__fadeIn" style="width: 100%">AN ATTEMPT to summarize my work on a page 🙃</h2>
 </div>
 <div id="page_heading_mobile" class="navbar" style="width: 100%;  font-variant-caps: all-petite-caps; padding-top: 3px !important; !important; padding-bottom: 0 !important; position: sticky; top: 0; background: white; z-index: 3; height: 3rem; box-shadow: #C8C8C8 0px 2px 2px 0px">
-    <h2  class="animate__animated animate__fadeIn">MY RESUME</h2>
+    <div style="display: flex; align-items: center; justify-content: space-between" >
+        <h2  class="animate__animated animate__fadeIn">MY RESUME</h2>
+        <svg width="0.9em" height="0.9em" viewBox="0 0 16 16" class="bi bi-download" fill="#414042" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+            <path fill-rule="evenodd" d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+        </svg>
+    </div>
 </div>
 
+<!--Mobile <= md-->
+<div class="container d-lg-none">
+    <div class="resume_section">
+        <div class="section_title">
+            <h5>education</h5>
+            <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-book" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" d="M1 2.828v9.923c.918-.35 2.107-.692 3.287-.81 1.094-.111 2.278-.039 3.213.492V2.687c-.654-.689-1.782-.886-3.112-.752-1.234.124-2.503.523-3.388.893zm7.5-.141v9.746c.935-.53 2.12-.603 3.213-.493 1.18.12 2.37.461 3.287.811V2.828c-.885-.37-2.154-.769-3.388-.893-1.33-.134-2.458.063-3.112.752zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
+            </svg>
+        </div>
+        <div class="section_content">
+            <p>Arizona State University,</p>
+            <p>BS. Computer Science,</p>
+            <p>Design Studies (Minor),</p>
+            <p>3.77 GPA,</p>
+            <p>Graduate in May 2021.</p>
+        </div>
+    </div>
+</div>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

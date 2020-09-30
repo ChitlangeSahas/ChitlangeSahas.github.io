@@ -55,6 +55,7 @@ h3 {
 }
 .navbar-toggler{
     outline: none;
+    padding-right: 0;
     border: none;
 }
 
