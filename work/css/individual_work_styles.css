@@ -3,9 +3,10 @@
     font-size: 2.6rem;
 }
 
-.row h5 {
+.row p {
     margin-top: 3rem;
     line-height: 1.8rem;
+    font-size: 1.2rem;
     font-family: "Apercu Pro";
     font-weight: 300;
 }
@@ -61,11 +62,12 @@ hr {
     margin: 0;
 }
 
-.d-lg-none h5 {
+.d-lg-none p {
     font-size: 0.9rem;
     line-height: 1.3rem;
     font-family: "Apercu Pro";
     margin-top: 2rem;
+    font-weight: 300;
 }
 
 .d-lg-none .btn-primary {
@@ -130,7 +132,7 @@ hr {
         font-family: JetBrainsMono_Light;
     }
 
-    .d-lg-none h5 {
+    .d-lg-none p {
         font-size: 1.5rem;
         line-height: 2.4rem;
         margin-top: 2rem;
