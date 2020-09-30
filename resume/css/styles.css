@@ -4,6 +4,17 @@
     padding-bottom: 0;
 
 }
+hr {
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+    border: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
 h1, h2, h3, h4, h5, h6, p{
     font-family: "Apercu Pro";
 }
@@ -22,7 +33,7 @@ h1, h2, h3, h4, h5, h6, p{
 }
 
 .resume_section {
-    margin-top: 3rem;
+    /*margin-top: 3rem;*/
 }
 
 .section_title h5 {
