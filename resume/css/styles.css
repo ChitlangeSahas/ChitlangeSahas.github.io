@@ -28,12 +28,13 @@ h1, h2, h3, h4, h5, h6, p{
 .section_title h5 {
     font-family: JetBrainsMono_Bold;
     color: #0671A1;
-
+    margin-bottom: 0;
 }
 
 .section_title {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .section_content {
