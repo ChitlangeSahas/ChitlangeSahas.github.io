@@ -1,9 +1,17 @@
+#page_heading h2{
+    font-family: JetBrainsMono_Regular;
+}
+
+.navbar {
+    font-family: JetBrainsMono_Regular !important;
+}
+
 .container {
     padding: 2rem;
     padding-top: 0;
     padding-bottom: 0;
-
 }
+
 hr {
     width: 100vw;
     position: relative;
@@ -15,6 +23,7 @@ hr {
     margin-top: 3rem;
     margin-bottom: 3rem;
 }
+
 h1, h2, h3, h4, h5, h6, p{
     font-family: "Apercu Pro";
 }
@@ -54,17 +63,30 @@ h1, h2, h3, h4, h5, h6, p{
     font-weight: 200;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
-
-    /*font-size: 1.1rem;*/
 }
 
 .section_content p {
     margin-bottom: 0.5rem;
+    line-height: 1.3rem;
+    padding-left: 1rem;
+}
+
+.section_content a {
+    font-family: "Apercu Pro";
+    color: #0671A1;
 }
 
 .section_content h6 {
     font-family: JetBrainsMono_Light !important;
     text-transform: uppercase;
+}
+
+.read_more_div {
+    color: #0671A1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 10px
 }
 
 @media screen and (max-width: 621px) {

@@ -27,6 +27,10 @@
 
 <div class="navbar" id="page_heading" style="width: 100%; margin-bottom: 60px; margin-top: 30px; text-align:center !important; font-variant-caps: all-petite-caps; padding-top: 0 !important; padding-bottom: 0 !important; position: sticky; top: 0; background: white; z-index: 3; height: 4rem">
     <h2  class="animate__animated animate__fadeIn" style="width: 100%">AN ATTEMPT to summarize my work on a page 🙃</h2>
+    <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-download" fill="#414042" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+        <path fill-rule="evenodd" d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+    </svg>
 </div>
 <div id="page_heading_mobile" class="navbar" style="width: 100%;  font-variant-caps: all-petite-caps; padding-top: 3px !important; !important; padding-bottom: 0 !important; position: sticky; top: 0; background: white; z-index: 3; height: 3rem; box-shadow: #C8C8C8 0px 2px 2px 0px">
     <div style="display: flex; align-items: center; justify-content: space-between" >
@@ -38,8 +42,7 @@
     </div>
 </div>
 
-<!--Mobile <= md-->
-<div class="container d-lg-none">
+<div class="container">
     <div class="resume_section" style="margin-top: 3rem">
         <div class="section_title">
             <h5>education</h5>
@@ -87,7 +90,7 @@
             <p>Wrote a full recursive descent parser from ground up in Rust and GoLang for the new syntax.</p>
             <p>Became 15th most popular contributor to the codebase, [55 total].</p>
         </div>
-        <div class="section_content">
+        <div class="section_content" style="margin-top: 2.5rem !important;">
             <h6 style="margin-bottom: 0.2rem">Herberger Design</h6>
             <h6 style="font-family: 'JetBrainsMono_Regular'!important;">WEB DEVELOPER INTERN</h6>
             <p>Used HTML, CSS and Javascript to produce new websites and improve the layout of existing websites for a better user experience and hence lower the bounce-off rate.</p>
@@ -108,12 +111,24 @@
             <h6 style="font-family: 'JetBrainsMono_Regular'!important;">LINKEDIN JOBS TRACKER - CHROME EXTENSION</h6>
             <p>Developed a chrome extension using that injects content scripts on linkedin jobs page and let’s you save desired jobs in a kanban style board.</p>
             <p>Used HTML, CSS, Javascript for the front end development and Firestore database on the backend for storing data and user auth info.</p>
+            <div class="read_more_div">
+                <a style="margin-right: 3px" href="../work/">read more</a>
+                <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-arrow-up-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                </svg>
+            </div>
         </div>
-        <div class="section_content">
+        <div class="section_content" style="margin-top: 1rem !important;">
             <h6 style="margin-bottom: 0.2rem">FULL PRODUCT DESIGN</h6>
             <h6 style="font-family: 'JetBrainsMono_Regular'!important;">SELF BALANCING MOBILE TRANSPORT</h6>
             <p>Developed the self-balancing software in C++, used PID loop algorithm & Kalman Filter algorithm.</p>
             <p>Developed mobile platform application for Android using Java. Phone connects wirelessly to monitor data.</p>
+            <div class="read_more_div">
+                <a style="margin-right: 3px" href="../work/uniwheel">read more</a>
+                <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-arrow-up-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"/>
+                </svg>
+            </div>
         </div>
     </div>
     <hr>
@@ -130,6 +145,10 @@
         </div>
     </div>
 </div>
+
+<footer style="height: 3rem">
+    &nbsp;
+</footer>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
