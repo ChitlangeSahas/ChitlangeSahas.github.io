@@ -6,6 +6,10 @@
     font-family: JetBrainsMono_Regular !important;
 }
 
+.navbar h6 {
+    font-family: JetBrainsMono_Regular;
+}
+
 .container {
     padding: 2rem;
     padding-top: 0;
