@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6, p{
     margin-bottom: 0.5rem;
     line-height: 1.5rem;
     padding-left: 1rem;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 }
 
 .section_content a {
@@ -101,6 +101,16 @@ h1, h2, h3, h4, h5, h6, p{
     }
     #page_heading_mobile{
         display: block;
+    }
+
+    .section_title h5 {
+        font-size: 1.2rem;
+    }
+    .section_content h6 {
+        font-size: 1rem;
+    }
+    .section_content p {
+        font-size: 1rem;
     }
 }
 
