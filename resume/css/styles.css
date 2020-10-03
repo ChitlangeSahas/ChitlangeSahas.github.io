@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6, p{
     font-family: JetBrainsMono_Bold;
     color: #0671A1;
     margin-bottom: 0;
-    font-size: 1.4rem;
+    font-size: 1rem;
 }
 
 .section_title {
@@ -118,7 +118,7 @@ h1, h2, h3, h4, h5, h6, p{
     }
 
     .section_title h5 {
-        font-size: 1.2rem;
+        font-size: 0.8rem;
     }
     .section_content h6 {
         font-size: 1rem;
