@@ -10,6 +10,12 @@
     font-family: JetBrainsMono_Regular;
 }
 
+b{
+    font-family: "Apercu Pro";
+    font-weight: 100;
+    font-style: italic;
+}
+
 .container {
     padding: 2rem;
     padding-top: 0;
@@ -70,8 +76,8 @@ h1, h2, h3, h4, h5, h6, p{
 }
 
 .section_content p {
-    margin-bottom: 0.5rem;
-    line-height: 1.5rem;
+    margin-bottom: 0.9rem;
+    line-height: 1.7rem;
     padding-left: 1rem;
     font-size: 1.2rem;
 }
@@ -83,8 +89,16 @@ h1, h2, h3, h4, h5, h6, p{
 
 .section_content h6 {
     font-family: JetBrainsMono_Light !important;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     text-transform: uppercase;
+}
+
+.section_content > h6:first-child {
+    font-size: 0.8em;
+}
+
+.section_content > h6:nth-child(2) {
+    margin-top: 0.6rem;
 }
 
 .read_more_div {
@@ -111,6 +125,7 @@ h1, h2, h3, h4, h5, h6, p{
     }
     .section_content p {
         font-size: 1rem;
+        margin-bottom: 0.5rem;
     }
 }
 
