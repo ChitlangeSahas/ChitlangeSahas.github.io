@@ -30,6 +30,9 @@
     includeHTML();
 </script>
 
+<div class="navbar" id="page_heading" style="width: 100%; margin-bottom: 60px; margin-top: 30px; text-align:center !important; font-variant-caps: all-petite-caps; padding-top: 0 !important; padding-bottom: 0 !important; position: sticky; top: 0; background: white; z-index: 3; height: 4rem">
+    <h2  class="animate__animated animate__fadeIn" style="width: 100%">INTERSHIP AT INFLUXDATA</h2>
+</div>
 
 <div class="container d-none d-lg-block" style="margin-top: 3rem">
     <div class="nav_buttons" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2">
@@ -40,28 +43,56 @@
             <path fill-rule="evenodd" d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z"/>
         </svg></a>
     </div>
-    <div class="row">
-        <div class="col-lg-6">
-            <img src="https://rawcdn.githack.com/ChitlangeSahas/ChitlangeSahas.github.io/7a9b9c324080fbc9efb479d183c5a49990e09b51/work/uniwheel/img/uniwheel.png" width="100%">
-        </div>
-        <div class="col-lg-6">
-            <h1>Internship</h1>
-            <p>Myself and a Computer Science colleague David wanted to experiment with building a lightweight self-balancing electric vehicle, similar to hoverboards and segways.
-                <br><br> We applied the inverted pendulum balancing techniques to keep the wheel under the user's center of gravity. Uniwheel uses leaning to drive forward and back, as well as turning.</p>
-
-            <div style="margin-top: 3rem">
-                <a href="https://github.com/ChitlangeSahas/UniWheel" target="_blank"><button type="button" class="btn btn-primary">Github</button></a>
-                <button type="button" class="btn btn-primary" disabled>Instructables</button>
-                <a href="https://bit.ly/sahas-uniwheel" target="_blank"><button type="button" class="btn btn-primary">Youtube</button></a>
-            </div>
-        </div>
-
+    <div class="internship-section" style="margin-top: 3rem">
+        <h5>from</h5>
+        <p>June 2020 - August 2020</p>
     </div>
+
+    <div class="internship-section">
+        <h5>context</h5>
+        <p>FLUX is InfluxData’s new functional data scripting language designed for querying, analyzing, and acting on data.</p>
+        <p>It is mainly used to interact with InfluxDB which is the real-time database by InfluxData. </p>
+        <p>Learn more here: <a href="https://github.com/influxdata/flux">https://github.com/influxdata/flux</a></p>
+    </div>
+
     <hr>
-    <div class="row" style="margin-bottom: 30px">
-        <div style="width: 100%; margin-bottom: 4rem"><h1 style="text-align: center">Simply Put</h1></div>
-        <img src="https://rawcdn.githack.com/ChitlangeSahas/ChitlangeSahas.github.io/7a9b9c324080fbc9efb479d183c5a49990e09b51/work/uniwheel/svg/simply_put.svg" width="100%" >
+    <div class="internship-section">
+        <h4>1st Contribution</h4>
+        <h3>Redesigning the Flux language TypeExpression syntax.</h3>
+        <p>To make the flux language syntax more user-friendly, I worked with the full time engineers at InfluxData flux team and devised a cleaner, better syntax which was more intuitive and user-centered.
+        </p>
+
+        <h6>before</h6>
+        <before>"hour" => <br>
+            "forall [t0] <accent>where</accent> t0 : Timeable (t: t0) -> int"
+        </before>
+
+        <h6>after</h6>
+        <before>"hour" => <br>
+            "(t: T) => int <accent>where</accent> T: Timeable"
+        </before>
     </div>
+
+    <hr>
+    <div class="internship-section">
+        <h4>2nd Contribution</h4>
+        <h3>Implementing a new parser for the new grammar.</h3>
+        <p>I implemented a full recursive descent parser from ground up to be able to use the new syntax. This included implementation of the parser and the tests for individual grammar rules.</p>
+        <p>There were also times where I had to revisit the grammar to make it Left Factored for a smooth implementation.</p>
+
+
+    </div>
+
+    <hr>
+    <div class="internship-section">
+        <h4>3rd Contribution</h4>
+        <h3>Improving the developer’s contrib flow by optimizing compiler.</h3>
+        <p>One of the main selling points / attraction for the Flux language is it’s open-source nature. This means that the codebase can be contributed-to by other developers.</p>
+        <p>I improved the contrib by optimizing the compiler. Previously developers would have to append their “modules” to two different files. This caused confusion because they would have to deal with understanding new syntaxes and standards. </p>
+        <p>After my optimization, the developers were able to include their source implementations in one flux module which could then be appended to the official flux package if it was approved. That would be done by a simple drag and drop into the sources folder.</p>
+    </div>
+
+    <hr>
 </div>
 
 <!--Mobile <= md-->
