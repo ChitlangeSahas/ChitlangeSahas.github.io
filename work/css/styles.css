@@ -58,6 +58,11 @@
     background-size: cover;
 }
 
+.gallery li .influx_background {
+    background-image: url(url goes here);
+    background-size: 75%;
+}
+
 .gallery li .uniwheel_background {
     background-image: url(https://rawcdn.githack.com/ChitlangeSahas/old-website/00f504b550caa82d569714e04bfd5c054068497b/img/uniwheel.png);
     background-size: 75%;
