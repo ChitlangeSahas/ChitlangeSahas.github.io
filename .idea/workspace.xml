@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="added influxdata work page :: font fixes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i7JeKJijPcbjxDnNGs3ozCTVi8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/work/cellularautomaton/svg" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="" />
+      <created>1601252790266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601252790266</updated>
+      <workItem from="1601252791291" duration="3445000" />
+      <workItem from="1601335099890" duration="4872000" />
+      <workItem from="1601408824335" duration="5292000" />
+      <workItem from="1601426115173" duration="7900000" />
+      <workItem from="1601603216896" duration="5603000" />
+      <workItem from="1601658659304" duration="23000" />
+      <workItem from="1601684382336" duration="7876000" />
+      <workItem from="1601696523183" duration="173000" />
+      <workItem from="1601696846744" duration="875000" />
+      <workItem from="1601878800553" duration="367000" />
+      <workItem from="1601879311986" duration="1655000" />
+      <workItem from="1601948546847" duration="1543000" />
+      <workItem from="1602123660035" duration="9595000" />
+    </task>
+    <task id="LOCAL-00065" summary="minor font fixes">
+      <created>1601695136221</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1601695136221</updated>
+    </task>
+    <task id="LOCAL-00066" summary="minor font fixes">
+      <created>1601695235659</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1601695235659</updated>
+    </task>
+    <task id="LOCAL-00067" summary="minor font fixes">
+      <created>1601695338354</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1601695338354</updated>
+    </task>
+    <task id="LOCAL-00068" summary="minor font fixes">
+      <created>1601695584057</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1601695584057</updated>
+    </task>
+    <task id="LOCAL-00069" summary="minor font fixes">
+      <created>1601695955852</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1601695955852</updated>
+    </task>
+    <task id="LOCAL-00070" summary="minor font fixes">
+      <created>1601696031367</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1601696031367</updated>
+    </task>
+    <task id="LOCAL-00071" summary="minor font fixes">
+      <created>1601696402640</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1601696402640</updated>
+    </task>
+    <task id="LOCAL-00072" summary="minor font fixes">
+      <created>1601696556938</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1601696556939</updated>
+    </task>
+    <task id="LOCAL-00073" summary="minor font fixes">
+      <created>1601697262962</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1601697262962</updated>
+    </task>
+    <task id="LOCAL-00074" summary="minor font fixes">
+      <created>1601697375434</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1601697375434</updated>
+    </task>
+    <task id="LOCAL-00075" summary="added resume pdf">
+      <created>1601879140084</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1601879140085</updated>
+    </task>
+    <task id="LOCAL-00076" summary="added resume pdf">
+      <created>1601879207536</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1601879207536</updated>
+    </task>
+    <task id="LOCAL-00077" summary="added resume pdf">
+      <created>1601879333705</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1601879333706</updated>
+    </task>
+    <task id="LOCAL-00078" summary="added resume pdf">
+      <created>1601879402537</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1601879402537</updated>
+    </task>
+    <task id="LOCAL-00079" summary="added resume pdf">
+      <created>1601880221687</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1601880221687</updated>
+    </task>
+    <task id="LOCAL-00080" summary="added resume pdf">
+      <created>1601880454106</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1601880454107</updated>
+    </task>
+    <task id="LOCAL-00081" summary="added resume pdf">
+      <created>1601880597625</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1601880597625</updated>
+    </task>
+    <task id="LOCAL-00082" summary="added resume pdf">
+      <created>1601880707939</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1601880707939</updated>
+    </task>
+    <task id="LOCAL-00083" summary="added resume pdf">
+      <created>1601880894231</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1601880894231</updated>
+    </task>
+    <task id="LOCAL-00084" summary="added resume pdf">
+      <created>1601880963460</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1601880963460</updated>
+    </task>
+    <task id="LOCAL-00085" summary="added resume pdf">
+      <created>1601881129593</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1601881129593</updated>
+    </task>
+    <task id="LOCAL-00086" summary="added resume pdf">
+      <created>1601881188461</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1601881188461</updated>
+    </task>
+    <task id="LOCAL-00087" summary="added resume pdf">
+      <created>1601949676333</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1601949676334</updated>
+    </task>
+    <task id="LOCAL-00088" summary="added resume pdf">
+      <created>1601949800675</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1601949800675</updated>
+    </task>
+    <task id="LOCAL-00089" summary="added resume pdf">
+      <created>1601949854770</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1601949854770</updated>
+    </task>
+    <task id="LOCAL-00090" summary="added resume pdf">
+      <created>1601949970143</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1601949970143</updated>
+    </task>
+    <task id="LOCAL-00091" summary="added resume pdf">
+      <created>1602124045722</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1602124045723</updated>
+    </task>
+    <task id="LOCAL-00092" summary="added influxdata work page">
+      <created>1602128286472</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1602128286472</updated>
+    </task>
+    <task id="LOCAL-00093" summary="added influxdata work page">
+      <created>1602129234914</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1602129234915</updated>
+    </task>
+    <task id="LOCAL-00094" summary="added influxdata work page">
+      <created>1602129298698</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1602129298699</updated>
+    </task>
+    <task id="LOCAL-00095" summary="added influxdata work page :: font fixes">
+      <created>1602129488632</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1602129488632</updated>
+    </task>
+    <task id="LOCAL-00096" summary="added influxdata work page :: font fixes">
+      <created>1602129680551</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1602129680551</updated>
+    </task>
+    <task id="LOCAL-00097" summary="added influxdata work page :: font fixes">
+      <created>1602129919601</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1602129919601</updated>
+    </task>
+    <task id="LOCAL-00098" summary="added influxdata work page :: font fixes">
+      <created>1602130057930</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1602130057931</updated>
+    </task>
+    <task id="LOCAL-00099" summary="added influxdata work page :: font fixes">
+      <created>1602130289549</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1602130289549</updated>
+    </task>
+    <task id="LOCAL-00100" summary="added influxdata work page :: font fixes">
+      <created>1602130775860</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1602130775860</updated>
+    </task>
+    <task id="LOCAL-00101" summary="added influxdata work page :: font fixes">
+      <created>1602131116558</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131116558</updated>
+    </task>
+    <task id="LOCAL-00102" summary="added influxdata work page :: font fixes">
+      <created>1602131154775</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131154775</updated>
+    </task>
+    <task id="LOCAL-00103" summary="added influxdata work page :: font fixes">
+      <created>1602131373966</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131373966</updated>
+    </task>
+    <task id="LOCAL-00104" summary="added influxdata work page :: font fixes">
+      <created>1602131544093</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131544093</updated>
+    </task>
+    <task id="LOCAL-00105" summary="added influxdata work page :: font fixes">
+      <created>1602131660393</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131660393</updated>
+    </task>
+    <task id="LOCAL-00106" summary="added influxdata work page :: font fixes">
+      <created>1602131896339</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131896339</updated>
+    </task>
+    <task id="LOCAL-00107" summary="added influxdata work page :: font fixes">
+      <created>1602132006634</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1602132006634</updated>
+    </task>
+    <task id="LOCAL-00108" summary="added influxdata work page :: font fixes">
+      <created>1602132058478</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1602132058478</updated>
+    </task>
+    <task id="LOCAL-00109" summary="added influxdata work page :: font fixes">
+      <created>1602132276512</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1602132276512</updated>
+    </task>
+    <task id="LOCAL-00110" summary="added influxdata work page :: font fixes">
+      <created>1602132997099</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1602132997099</updated>
+    </task>
+    <task id="LOCAL-00111" summary="added influxdata work page :: font fixes">
+      <created>1602133090064</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1602133090064</updated>
+    </task>
+    <task id="LOCAL-00112" summary="added influxdata work page :: font fixes">
+      <created>1602133358871</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1602133358871</updated>
+    </task>
+    <task id="LOCAL-00113" summary="added influxdata work page :: font fixes">
+      <created>1602133606786</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1602133606786</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixing links" />
+    <MESSAGE value="fixing images" />
+    <MESSAGE value="homepage tweak" />
+    <MESSAGE value="added uniwheel app page" />
+    <MESSAGE value="fixed image links" />
+    <MESSAGE value="fixed css" />
+    <MESSAGE value="back - forward buttons links added." />
+    <MESSAGE value="uniwheel github | Instructables | youtube links added." />
+    <MESSAGE value="cellularautomaton github | Instructables | youtube links added." />
+    <MESSAGE value="buttons on hover links and transforms added." />
+    <MESSAGE value="animations fixed on work page." />
+    <MESSAGE value="link open in new window for github and youtube links" />
+    <MESSAGE value="fix fonts." />
+    <MESSAGE value="resume added." />
+    <MESSAGE value="minor spacing fixes" />
+    <MESSAGE value="minor font fixes" />
+    <MESSAGE value="added resume pdf" />
+    <MESSAGE value="added influxdata work page" />
+    <MESSAGE value="added influxdata work page :: font fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added influxdata work page :: font fixes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601427293087">
+      <screen x="0" y="23" width="1440" height="787" />
+    </state>
+    <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
+    <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602133609198">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
+    <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1601608659233" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.787@0.23.1440.787" timestamp="1601607586001" />
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1602133609198" />
+    <state x="320" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.790@0.23.1440.790" timestamp="1601326999250" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.791@0.23.1440.791" timestamp="1601949978357" />
+    <state x="518" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602131539593">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="518" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.787@0.23.1440.787" timestamp="1601410829142" />
+    <state x="518" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.788@0.23.1440.788" timestamp="1602131539593" />
+    <state x="518" y="339" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.790@0.23.1440.790" timestamp="1601253807406" />
+    <state x="385" y="134" width="670" height="676" key="search.everywhere.popup" timestamp="1601448016784">
+      <screen x="0" y="23" width="1440" height="787" />
+    </state>
+    <state x="385" y="134" width="670" height="676" key="search.everywhere.popup/0.23.1440.787@0.23.1440.787" timestamp="1601448016784" />
+  </component>
+</project>
