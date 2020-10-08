@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="added meta tags">
-      <change beforePath="$PROJECT_DIR$/work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/work/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/influxdata/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/work/influxdata/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/influxdata/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/influxdata/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +81,9 @@
       <workItem from="1601878800553" duration="367000" />
       <workItem from="1601879311986" duration="1655000" />
       <workItem from="1601948546847" duration="1543000" />
-      <workItem from="1602123660035" duration="10625000" />
-    </task>
-    <task id="LOCAL-00069" summary="minor font fixes">
-      <created>1601695955852</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1601695955852</updated>
+      <workItem from="1602123660035" duration="11139000" />
+      <workItem from="1602142305161" duration="89000" />
+      <workItem from="1602142533938" duration="711000" />
     </task>
     <task id="LOCAL-00070" summary="minor font fixes">
       <created>1601696031367</created>
@@ -423,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602135788840</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="added meta tags">
+      <created>1602135828815</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1602135828815</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,14 +475,14 @@
     </state>
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
     <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
-    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602135790930">
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602135831813">
       <screen x="0" y="23" width="1440" height="788" />
     </state>
     <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
     <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1601608659233" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.787@0.23.1440.787" timestamp="1601607586001" />
-    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1602135790930" />
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1602135831813" />
     <state x="320" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.790@0.23.1440.790" timestamp="1601326999250" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.791@0.23.1440.791" timestamp="1601949978357" />
     <state x="518" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602131539593">
