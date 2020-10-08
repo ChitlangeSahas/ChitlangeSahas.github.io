@@ -87,9 +87,18 @@
     <div class="internship-section">
         <h4>1st Contribution</h4>
         <h3>Redesigning the Flux language TypeExpression syntax.</h3>
-        <p>FLUX is InfluxData’s new functional data scripting language designed for querying, analyzing, and acting on data.</p>
-        <p>It is mainly used to interact with InfluxDB which is the real-time database by InfluxData. </p>
-        <p>Learn more here: <a href="https://github.com/influxdata/flux">https://github.com/influxdata/flux</a></p>
+        <p>To make the flux language syntax more user-friendly, I worked with the full time engineers at InfluxData flux team and devised a cleaner, better syntax which was more intuitive and user-centered.
+        </p>
+
+        <h6>before</h6>
+        <before>"hour" => <br>
+            "forall [t0] <accent>where</accent> t0 : Timeable (t: t0) -> int"
+        </before>
+
+        <h6>after</h6>
+        <before>"hour" => <br>
+            "(t: T) => int <accent>where</accent> T: Timeable"
+        </before>
     </div>
 </div>
 <!-- Optional JavaScript -->
