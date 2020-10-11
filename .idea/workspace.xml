@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="video added to influx internship page.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +82,8 @@
       <workItem from="1602123660035" duration="11139000" />
       <workItem from="1602142305161" duration="89000" />
       <workItem from="1602142533938" duration="1790000" />
-      <workItem from="1602180292239" duration="17000" />
-    </task>
-    <task id="LOCAL-00073" summary="minor font fixes">
-      <created>1601697262962</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1601697262962</updated>
+      <workItem from="1602180292239" duration="629000" />
+      <workItem from="1602374591936" duration="25000" />
     </task>
     <task id="LOCAL-00074" summary="minor font fixes">
       <created>1601697375434</created>
@@ -427,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602144524156</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="video added to influx internship page.">
+      <created>1602180341247</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1602180341247</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,14 +476,14 @@
     </state>
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
     <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
-    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602144531939">
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602180344436">
       <screen x="0" y="23" width="1440" height="788" />
     </state>
     <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
     <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1601608659233" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.787@0.23.1440.787" timestamp="1601607586001" />
-    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1602144531939" />
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1602180344436" />
     <state x="320" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.790@0.23.1440.790" timestamp="1601326999250" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.791@0.23.1440.791" timestamp="1601949978357" />
     <state x="518" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602131539593">
