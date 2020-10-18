@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="homepage major changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,14 +86,7 @@
       <workItem from="1602142533938" duration="1790000" />
       <workItem from="1602180292239" duration="629000" />
       <workItem from="1602374591936" duration="52000" />
-      <workItem from="1603002168963" duration="5217000" />
-    </task>
-    <task id="LOCAL-00086" summary="added resume pdf">
-      <created>1601881188461</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1601881188461</updated>
+      <workItem from="1603002168963" duration="5599000" />
     </task>
     <task id="LOCAL-00087" summary="added resume pdf">
       <created>1601949676333</created>
@@ -430,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603007245359</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="homepage major changes">
+      <created>1603007692924</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1603007692924</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,13 +481,13 @@
     </state>
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
     <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
-    <state x="320" y="155" key="Vcs.Push.Dialog.v2" timestamp="1603007284365">
+    <state x="320" y="155" key="Vcs.Push.Dialog.v2" timestamp="1603007695434">
       <screen x="0" y="23" width="1440" height="785" />
     </state>
     <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
     <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1601608659233" />
-    <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603007284365" />
+    <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603007695434" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.787@0.23.1440.787" timestamp="1601607586001" />
     <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1603002924762" />
     <state x="320" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.790@0.23.1440.790" timestamp="1601326999250" />

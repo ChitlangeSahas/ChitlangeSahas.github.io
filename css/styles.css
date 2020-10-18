@@ -172,6 +172,12 @@ accent{
     }
 }
 
+@media (max-width: 750px) {
+    #hero_image{
+        display: none !important;
+    }
+}
+
 @media (min-width: 1200px) {  }
 
 a:hover {
