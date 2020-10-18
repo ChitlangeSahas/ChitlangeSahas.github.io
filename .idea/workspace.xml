@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="homepage major changes">
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +85,7 @@
       <workItem from="1602142533938" duration="1790000" />
       <workItem from="1602180292239" duration="629000" />
       <workItem from="1602374591936" duration="52000" />
-      <workItem from="1603002168963" duration="476000" />
-    </task>
-    <task id="LOCAL-00076" summary="added resume pdf">
-      <created>1601879207536</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1601879207536</updated>
+      <workItem from="1603002168963" duration="732000" />
     </task>
     <task id="LOCAL-00077" summary="added resume pdf">
       <created>1601879333705</created>
@@ -429,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603002421371</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="homepage major changes">
+      <created>1603002738223</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1603002738223</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,14 +480,14 @@
     </state>
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
     <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
-    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1603002431336">
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1603002740518">
       <screen x="0" y="23" width="1440" height="788" />
     </state>
     <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
     <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1601608659233" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.787@0.23.1440.787" timestamp="1601607586001" />
-    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1603002431336" />
+    <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1603002740518" />
     <state x="320" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.790@0.23.1440.790" timestamp="1601326999250" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.791@0.23.1440.791" timestamp="1601949978357" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.794@0.23.1440.794" timestamp="1602374630799" />
