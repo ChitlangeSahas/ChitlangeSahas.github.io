@@ -24,7 +24,7 @@
 
 @font-face{
     font-family: 'Handwritten_Pretty_Queen';
-    src: url('../fonts/script/script.ttf') format('truetype');
+    src: url('../fonts/script/script.ttf');
     font-style: normal;
 }
 
