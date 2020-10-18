@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="video added to influx internship page.">
+    <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="meta data fix.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +52,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/work/cellularautomaton/svg" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/fonts" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/work/cellularautomaton/svg" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -83,14 +84,8 @@
       <workItem from="1602142305161" duration="89000" />
       <workItem from="1602142533938" duration="1790000" />
       <workItem from="1602180292239" duration="629000" />
-      <workItem from="1602374591936" duration="25000" />
-    </task>
-    <task id="LOCAL-00074" summary="minor font fixes">
-      <created>1601697375434</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1601697375434</updated>
+      <workItem from="1602374591936" duration="52000" />
+      <workItem from="1603002168963" duration="210000" />
     </task>
     <task id="LOCAL-00075" summary="added resume pdf">
       <created>1601879140084</created>
@@ -428,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602180341247</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="meta data fix.">
+      <created>1602374626968</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1602374626969</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +470,8 @@
     <MESSAGE value="added influxdata work page :: font fixes" />
     <MESSAGE value="added meta tags" />
     <MESSAGE value="video added to influx internship page." />
-    <option name="LAST_COMMIT_MESSAGE" value="video added to influx internship page." />
+    <MESSAGE value="meta data fix." />
+    <option name="LAST_COMMIT_MESSAGE" value="meta data fix." />
   </component>
   <component name="WindowStateProjectService">
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601427293087">
@@ -476,8 +479,8 @@
     </state>
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
     <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
-    <state x="320" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602180344436">
-      <screen x="0" y="23" width="1440" height="788" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1602374630799">
+      <screen x="0" y="23" width="1440" height="794" />
     </state>
     <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
@@ -486,6 +489,7 @@
     <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.788@0.23.1440.788" timestamp="1602180344436" />
     <state x="320" y="158" key="Vcs.Push.Dialog.v2/0.23.1440.790@0.23.1440.790" timestamp="1601326999250" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.791@0.23.1440.791" timestamp="1601949978357" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.794@0.23.1440.794" timestamp="1602374630799" />
     <state x="518" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602131539593">
       <screen x="0" y="23" width="1440" height="788" />
     </state>

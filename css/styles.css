@@ -22,6 +22,12 @@
     font-style: normal;
 }
 
+@font-face{
+    font-family: 'Handwritten_Pretty_Queen';
+    src: url('../fonts/script/script.ttf') format('truetype');
+    font-style: normal;
+}
+
 body {
     font-family: 'JetBrainsMono_Regular', sans-serif;
     /*font-weight: 100 !important;*/
@@ -32,6 +38,10 @@ body {
 h3 {
     font-family: "Apercu Pro";
     font-weight: 200;
+}
+
+#hi{
+    font-family: "Handwritten_Pretty_Queen";
 }
 
 
