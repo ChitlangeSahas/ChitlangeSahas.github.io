@@ -24,7 +24,7 @@
 
 @font-face{
     font-family: 'Handwritten_Pretty_Queen';
-    src: url('../fonts/script/script.ttf');
+    src: url('../fonts/script/script.ttf') format('truetype');
     font-style: normal;
 }
 
@@ -75,7 +75,7 @@ accent{
 }
 
 #background_container{
-    position: fixed;
+    position: absolute;
     z-index: -1;
     background-image: url("../img/home_page_face.png");
     background-size: 429px;
