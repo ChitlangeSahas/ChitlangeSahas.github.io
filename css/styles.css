@@ -172,9 +172,15 @@ accent{
     }
 }
 
+#hero_image_mobile{
+    display: none !important;
+}
 @media (max-width: 750px) {
     #hero_image{
         display: none !important;
+    }
+    #hero_image_mobile{
+        display: block !important;
     }
 }
 
