@@ -22,7 +22,6 @@
     <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="homepage major changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg/hero_designer_programmer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/hero_designer_programmer.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,14 +87,7 @@
       <workItem from="1602374591936" duration="52000" />
       <workItem from="1603002168963" duration="6737000" />
       <workItem from="1603009882141" duration="83000" />
-      <workItem from="1603315823717" duration="2152000" />
-    </task>
-    <task id="LOCAL-00095" summary="added influxdata work page :: font fixes">
-      <created>1602129488632</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1602129488632</updated>
+      <workItem from="1603315823717" duration="2269000" />
     </task>
     <task id="LOCAL-00096" summary="added influxdata work page :: font fixes">
       <created>1602129680551</created>
@@ -433,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603326261097</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="homepage major changes">
+      <created>1603326718706</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1603326718706</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
