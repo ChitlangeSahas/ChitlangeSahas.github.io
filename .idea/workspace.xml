@@ -22,6 +22,7 @@
     <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="homepage major changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svg/hero_designer_programmer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/hero_designer_programmer.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,14 +88,7 @@
       <workItem from="1602374591936" duration="52000" />
       <workItem from="1603002168963" duration="6737000" />
       <workItem from="1603009882141" duration="83000" />
-      <workItem from="1603315823717" duration="2269000" />
-    </task>
-    <task id="LOCAL-00096" summary="added influxdata work page :: font fixes">
-      <created>1602129680551</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1602129680551</updated>
+      <workItem from="1603315823717" duration="2513000" />
     </task>
     <task id="LOCAL-00097" summary="added influxdata work page :: font fixes">
       <created>1602129919601</created>
@@ -432,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603326718706</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="homepage major changes">
+      <created>1603326834470</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1603326834470</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,12 +483,12 @@
     </state>
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
     <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
-    <state x="320" y="154" key="Vcs.Push.Dialog.v2" timestamp="1603326306982">
+    <state x="320" y="154" key="Vcs.Push.Dialog.v2" timestamp="1603326916437">
       <screen x="0" y="23" width="1440" height="781" />
     </state>
     <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
-    <state x="320" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.781@0.23.1440.781" timestamp="1603326306982" />
+    <state x="320" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.781@0.23.1440.781" timestamp="1603326916437" />
     <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1601608659233" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603318354637" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.787@0.23.1440.787" timestamp="1601607586001" />
