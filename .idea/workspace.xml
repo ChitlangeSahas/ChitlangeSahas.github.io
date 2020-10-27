@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="fixed the damn links.">
-      <change afterPath="$PROJECT_DIR$/work/job-tracker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/job-tracker/img/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/work/job-tracker/img/background.png" afterDir="false" />
-    </list>
+    <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="added job tracker page." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,14 +89,7 @@
       <workItem from="1603315823717" duration="3063000" />
       <workItem from="1603400973214" duration="1448000" />
       <workItem from="1603477357216" duration="824000" />
-      <workItem from="1603780054869" duration="257000" />
-    </task>
-    <task id="LOCAL-00102" summary="added influxdata work page :: font fixes">
-      <created>1602131154775</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1602131154775</updated>
+      <workItem from="1603780054869" duration="562000" />
     </task>
     <task id="LOCAL-00103" summary="added influxdata work page :: font fixes">
       <created>1602131373966</created>
@@ -438,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603477410599</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="added job tracker page.">
+      <created>1603780340817</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1603780340817</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +477,8 @@
     <MESSAGE value="meta data fix." />
     <MESSAGE value="homepage major changes" />
     <MESSAGE value="fixed the damn links." />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed the damn links." />
+    <MESSAGE value="added job tracker page." />
+    <option name="LAST_COMMIT_MESSAGE" value="added job tracker page." />
   </component>
   <component name="WindowStateProjectService">
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601427293087">
@@ -489,11 +486,12 @@
     </state>
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
     <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
-    <state x="320" y="154" key="Vcs.Push.Dialog.v2" timestamp="1603477412825">
-      <screen x="0" y="23" width="1440" height="781" />
+    <state x="320" y="153" key="Vcs.Push.Dialog.v2" timestamp="1603780346363">
+      <screen x="0" y="23" width="1440" height="777" />
     </state>
     <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
+    <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.777@0.23.1440.777" timestamp="1603780346363" />
     <state x="320" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.781@0.23.1440.781" timestamp="1603477412825" />
     <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1601608659233" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603318354637" />
