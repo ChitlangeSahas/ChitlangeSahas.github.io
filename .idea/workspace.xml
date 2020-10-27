@@ -89,28 +89,7 @@
       <workItem from="1603315823717" duration="3063000" />
       <workItem from="1603400973214" duration="1448000" />
       <workItem from="1603477357216" duration="824000" />
-      <workItem from="1603780054869" duration="562000" />
-    </task>
-    <task id="LOCAL-00103" summary="added influxdata work page :: font fixes">
-      <created>1602131373966</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1602131373966</updated>
-    </task>
-    <task id="LOCAL-00104" summary="added influxdata work page :: font fixes">
-      <created>1602131544093</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1602131544093</updated>
-    </task>
-    <task id="LOCAL-00105" summary="added influxdata work page :: font fixes">
-      <created>1602131660393</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1602131660393</updated>
+      <workItem from="1603780054869" duration="880000" />
     </task>
     <task id="LOCAL-00106" summary="added influxdata work page :: font fixes">
       <created>1602131896339</created>
@@ -434,7 +413,28 @@
       <option name="project" value="LOCAL" />
       <updated>1603780340817</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="added job tracker page.">
+      <created>1603780674735</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1603780674735</updated>
+    </task>
+    <task id="LOCAL-00153" summary="added job tracker page.">
+      <created>1603780767334</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1603780767334</updated>
+    </task>
+    <task id="LOCAL-00154" summary="added job tracker page.">
+      <created>1603780901245</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1603780901245</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,12 +486,12 @@
     </state>
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
     <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
-    <state x="320" y="153" key="Vcs.Push.Dialog.v2" timestamp="1603780346363">
+    <state x="320" y="153" key="Vcs.Push.Dialog.v2" timestamp="1603780903171">
       <screen x="0" y="23" width="1440" height="777" />
     </state>
     <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
-    <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.777@0.23.1440.777" timestamp="1603780346363" />
+    <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.777@0.23.1440.777" timestamp="1603780903171" />
     <state x="320" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.781@0.23.1440.781" timestamp="1603477412825" />
     <state x="320" y="156" key="Vcs.Push.Dialog.v2/0.23.1440.783@0.23.1440.783" timestamp="1601608659233" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.785@0.23.1440.785" timestamp="1603318354637" />
