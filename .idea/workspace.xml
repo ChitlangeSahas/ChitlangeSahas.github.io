@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="">
+    <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="changed headline">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/navbar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,14 +93,9 @@
       <workItem from="1603400973214" duration="1448000" />
       <workItem from="1603477357216" duration="824000" />
       <workItem from="1603780054869" duration="1410000" />
-      <workItem from="1604769238807" duration="86000" />
-    </task>
-    <task id="LOCAL-00109" summary="added influxdata work page :: font fixes">
-      <created>1602132276512</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1602132276512</updated>
+      <workItem from="1604769238807" duration="883000" />
+      <workItem from="1604777261453" duration="14000" />
+      <workItem from="1604782661772" duration="282000" />
     </task>
     <task id="LOCAL-00110" summary="added influxdata work page :: font fixes">
       <created>1602132997099</created>
@@ -438,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603781246090</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="changed headline">
+      <created>1604769438000</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1604769438001</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +459,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixing links" />
     <MESSAGE value="fixing images" />
     <MESSAGE value="homepage tweak" />
     <MESSAGE value="added uniwheel app page" />
@@ -482,7 +483,8 @@
     <MESSAGE value="homepage major changes" />
     <MESSAGE value="fixed the damn links." />
     <MESSAGE value="added job tracker page." />
-    <option name="LAST_COMMIT_MESSAGE" value="added job tracker page." />
+    <MESSAGE value="changed headline" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed headline" />
   </component>
   <component name="WindowStateProjectService">
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601427293087">
@@ -490,10 +492,10 @@
     </state>
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.787@0.23.1440.787" timestamp="1601427293087" />
     <state x="457" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1601325300530" />
-    <state x="320" y="153" key="Vcs.Push.Dialog.v2" timestamp="1603781278388">
-      <screen x="0" y="23" width="1440" height="777" />
+    <state x="320" y="153" key="Vcs.Push.Dialog.v2" timestamp="1604769445583">
+      <screen x="0" y="23" width="1440" height="765" />
     </state>
-    <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1601697378020" />
+    <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.765@0.23.1440.765" timestamp="1604769445583" />
     <state x="320" y="155" key="Vcs.Push.Dialog.v2/0.23.1440.776@0.23.1440.776" timestamp="1601688634693" />
     <state x="320" y="153" key="Vcs.Push.Dialog.v2/0.23.1440.777@0.23.1440.777" timestamp="1603781278388" />
     <state x="320" y="154" key="Vcs.Push.Dialog.v2/0.23.1440.781@0.23.1440.781" timestamp="1603477412825" />
