@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="added resume to navbar itself. Keep it simple.">
+    <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="fixed instructables pictures.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/work/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,14 +98,7 @@
       <workItem from="1604782661772" duration="282000" />
       <workItem from="1605032636491" duration="74000" />
       <workItem from="1605494091925" duration="773000" />
-      <workItem from="1606879502627" duration="330000" />
-    </task>
-    <task id="LOCAL-00113" summary="added influxdata work page :: font fixes">
-      <created>1602133606786</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1602133606786</updated>
+      <workItem from="1606879502627" duration="669000" />
     </task>
     <task id="LOCAL-00114" summary="added influxdata work page :: font fixes">
       <created>1602133756361</created>
@@ -442,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605494424024</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="fixed instructables pictures.">
+      <created>1606880098210</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1606880098210</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +462,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed image links" />
     <MESSAGE value="fixed css" />
     <MESSAGE value="back - forward buttons links added." />
     <MESSAGE value="uniwheel github | Instructables | youtube links added." />
@@ -486,7 +486,8 @@
     <MESSAGE value="changed navbar" />
     <MESSAGE value="added new resume." />
     <MESSAGE value="added resume to navbar itself. Keep it simple." />
-    <option name="LAST_COMMIT_MESSAGE" value="added resume to navbar itself. Keep it simple." />
+    <MESSAGE value="fixed instructables pictures." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed instructables pictures." />
   </component>
   <component name="WindowStateProjectService">
     <state x="457" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601427293087">
