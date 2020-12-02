@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6921132c-869b-4f99-a854-4760c0889667" name="Default Changelist" comment="fixed instructables pictures.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/work/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/work/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,14 +98,7 @@
       <workItem from="1604782661772" duration="282000" />
       <workItem from="1605032636491" duration="74000" />
       <workItem from="1605494091925" duration="773000" />
-      <workItem from="1606879502627" duration="669000" />
-    </task>
-    <task id="LOCAL-00114" summary="added influxdata work page :: font fixes">
-      <created>1602133756361</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1602133756361</updated>
+      <workItem from="1606879502627" duration="760000" />
     </task>
     <task id="LOCAL-00115" summary="added influxdata work page :: font fixes">
       <created>1602134076711</created>
@@ -443,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606880098210</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="fixed instructables pictures.">
+      <created>1606880350309</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1606880350309</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
